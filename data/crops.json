@@ -1,0 +1,610 @@
+[
+	{
+		"crop": "Amaranth",
+		"cropSprite": [12, 27],
+		"seed": "Amaranth Seeds",
+		"seedSprite": [13, 27],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 7
+	},
+	{
+		"crop": "Ancient Fruit",
+		"cropSprite": [2, 21],
+		"seed": "Ancient Seeds",
+		"seedSprite": [5, 19],
+		"kind": "Fruit",
+		"seasons": ["Spring", "Summer", "Fall"],
+		"growTime": 28,
+		"regrowTime": 7
+	},
+	{
+		"crop": "Apple",
+		"cropSprite": [11, 14],
+		"seed": "Apple Tree",
+		"seedSprite": [15, 13],
+		"kind": "Fruit",
+		"seasons": ["Fall"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Apricot",
+		"cropSprite": [14, 13],
+		"seed": "Apricot Tree",
+		"seedSprite": [19, 13],
+		"kind": "Fruit",
+		"seasons": ["Spring"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Artichoke",
+		"cropSprite": [14, 28],
+		"seed": "Artichoke Seeds",
+		"seedSprite": [15, 19],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 8
+	},
+	{
+		"crop": "Banana",
+		"cropSprite": [5, 36],
+		"seed": "Banana Tree",
+		"seedSprite": [3, 37],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Green Bean",
+		"cropSprite": [4, 32],
+		"seed": "Bean Starter",
+		"seedSprite": [7, 20],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 10,
+		"regrowTime": 3
+	},
+	{
+		"crop": "Beet",
+		"cropSprite": [4, 28],
+		"seed": "Beet Seeds",
+		"seedSprite": [10, 19],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 6
+	},
+	{
+		"crop": "Blueberry",
+		"cropSprite": [6, 29],
+		"seed": "Blueberry Seeds",
+		"seedSprite": [23, 19],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 13,
+		"regrowTime": 4
+	},
+	{
+		"crop": "Bok Choy",
+		"cropSprite": [10, 28],
+		"seed": "Bok Choy Seeds",
+		"seedSprite": [13, 19],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 4
+	},
+	{
+		"crop": "Cactus Fruit",
+		"cropSprite": [6, 36],
+		"seed": "Cactus Seeds",
+		"seedSprite": [14, 6],
+		"kind": "Fruit",
+		"seasons": ["Spring", "Summer", "Fall", "Winter"],
+		"growTime": 12,
+		"regrowTime": 3
+	},
+	{
+		"crop": "Cauliflower",
+		"cropSprite": [2, 32],
+		"seed": "Cauliflower Seeds",
+		"seedSprite": [6, 20],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 12
+	},
+	{
+		"crop": "Cherry",
+		"cropSprite": [10, 13],
+		"seed": "Cherry Tree",
+		"seedSprite": [20, 13],
+		"kind": "Fruit",
+		"seasons": ["Spring"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Coffee Bean",
+		"cropSprite": [23, 21],
+		"seed": "Coffee Bean",
+		"seedSprite": [23, 21],
+		"kind": "Seed",
+		"seasons": ["Spring", "Summer"],
+		"growTime": 10,
+		"regrowTime": 2
+	},
+	{
+		"crop": "Corn",
+		"cropSprite": [18, 28],
+		"seed": "Corn Seeds",
+		"seedSprite": [17, 19],
+		"kind": "Vegetable",
+		"seasons": ["Summer", "Fall"],
+		"growTime": 14,
+		"regrowTime": 4
+	},
+	{
+		"crop": "Cranberries",
+		"cropSprite": [6, 28],
+		"seed": "Cranberry Seeds",
+		"seedSprite": [11, 19],
+		"kind": "Fruit",
+		"seasons": ["Fall"],
+		"growTime": 7,
+		"regrowTime": 5
+	},
+	{
+		"crop": "Eggplant",
+		"cropSprite": [16, 28],
+		"seed": "Eggplant Seeds",
+		"seedSprite": [16, 19],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 5,
+		"regrowTime": 5
+	},
+	{
+		"crop": "Fairy Rose",
+		"cropSprite": [5, 15],
+		"seed": "Fairy Seeds",
+		"seedSprite": [7, 22],
+		"kind": "Flower",
+		"seasons": ["Fall"],
+		"growTime": 12
+	},
+	{
+		"crop": "Blackberry",
+		"cropSprite": [22, 22],
+		"seed": "Fall Seeds",
+		"seedSprite": [7, 19],
+		"kind": "Fruit",
+		"seasons": ["Fall"],
+		"growTime": 7
+	},
+	{
+		"crop": "Common Mushroom",
+		"cropSprite": [4, 23],
+		"seed": "Fall Seeds",
+		"seedSprite": [7, 19],
+		"kind": "Forage",
+		"seasons": ["Fall"],
+		"growTime": 7
+	},
+	{
+		"crop": "Hazelnut",
+		"cropSprite": [24, 22],
+		"seed": "Fall Seeds",
+		"seedSprite": [7, 19],
+		"kind": "Forage",
+		"seasons": ["Fall"],
+		"growTime": 7
+	},
+	{
+		"crop": "Wild Plum",
+		"cropSprite": [2, 23],
+		"seed": "Fall Seeds",
+		"seedSprite": [7, 19],
+		"kind": "Fruit",
+		"seasons": ["Fall"],
+		"growTime": 7
+	},
+	{
+		"crop": "Fiber",
+		"cropSprite": [21, 7],
+		"seed": "Fiber Seeds",
+		"seedSprite": [3, 3],
+		"kind": "Forage",
+		"seasons": ["Spring", "Summer", "Fall", "Winter"],
+		"growTime": 7
+	},
+	{
+		"crop": "Garlic",
+		"cropSprite": [16, 29],
+		"seed": "Garlic Seeds",
+		"seedSprite": [4, 20],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 4
+	},
+	{
+		"crop": "Grape",
+		"cropSprite": [10, 23],
+		"seed": "Grape Starter",
+		"seedSprite": [11, 27],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 10,
+		"regrowTime": 3
+	},
+	{
+		"crop": "Hops",
+		"cropSprite": [8, 27],
+		"seed": "Hops Starter",
+		"seedSprite": [10, 27],
+		"kind": "Vegetable",
+		"seasons": ["Summer"],
+		"growTime": 11,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Blue Jazz",
+		"cropSprite": [3, 15],
+		"seed": "Jazz Seeds",
+		"seedSprite": [3, 22],
+		"kind": "Flower",
+		"seasons": ["Spring"],
+		"growTime": 7
+	},
+	{
+		"crop": "Kale",
+		"cropSprite": [14, 29],
+		"seed": "Kale Seeds",
+		"seedSprite": [3, 20],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 6
+	},
+	{
+		"crop": "Mango",
+		"cropSprite": [6, 5],
+		"seed": "Mango Tree",
+		"seedSprite": [5, 5],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Melon",
+		"cropSprite": [10, 29],
+		"seed": "Melon Seeds",
+		"seedSprite": [1, 20],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 12
+	},
+	{
+		"crop": "Orange",
+		"cropSprite": [13, 13],
+		"seed": "Orange Tree",
+		"seedSprite": [18, 13],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Parsnip",
+		"cropSprite": [24, 38],
+		"seed": "Parsnip Seeds",
+		"seedSprite": [8, 20],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 4
+	},
+	{
+		"crop": "Peach",
+		"cropSprite": [12, 13],
+		"seed": "Peach Tree",
+		"seedSprite": [17, 13],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Hot Pepper",
+		"cropSprite": [4, 29],
+		"seed": "Pepper Seeds",
+		"seedSprite": [22, 19],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 5,
+		"regrowTime": 3
+	},
+	{
+		"crop": "Pineapple",
+		"cropSprite": [8, 5],
+		"seed": "Pineapple Tree",
+		"seedSprite": [7, 5],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 14,
+		"regrowTime": 7
+	},
+	{
+		"crop": "Pomegranate",
+		"cropSprite": [11, 13],
+		"seed": "Pomegranate Tree",
+		"seedSprite": [16, 13],
+		"kind": "Fruit",
+		"seasons": ["Fall"],
+		"growTime": 28,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Poppy",
+		"cropSprite": [8, 24],
+		"seed": "Poppy Seeds",
+		"seedSprite": [3, 21],
+		"kind": "Flower",
+		"seasons": ["Summer"],
+		"growTime": 7
+	},
+	{
+		"crop": "Potato",
+		"cropSprite": [24, 31],
+		"seed": "Potato Seeds",
+		"seedSprite": [5, 20],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 6
+	},
+	{
+		"crop": "Pumpkin",
+		"cropSprite": [12, 28],
+		"seed": "Pumpkin Seeds",
+		"seedSprite": [14, 19],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 13
+	},
+	{
+		"crop": "Qi Fruit",
+		"cropSprite": [23, 2],
+		"seed": "Qi Bean",
+		"seedSprite": [22, 2],
+		"kind": "Fruit",
+		"seasons": ["Spring", "Summer", "Fall", "Winter"],
+		"growTime": 4
+	},
+	{
+		"crop": "Radish",
+		"cropSprite": [24, 28],
+		"seed": "Radish Seeds",
+		"seedSprite": [20, 19],
+		"kind": "Vegetable",
+		"seasons": ["Summer"],
+		"growTime": 6
+	},
+	{
+		"crop": "Sweet Gem Berry",
+		"cropSprite": [15, 22],
+		"seed": "Rare Seed",
+		"seedSprite": [13, 25],
+		"kind": "Rare",
+		"seasons": ["Fall"],
+		"growTime": 24
+	},
+	{
+		"crop": "Red Cabbage",
+		"cropSprite": [22, 28],
+		"seed": "Red Cabbage Seeds",
+		"seedSprite": [19, 19],
+		"kind": "Vegetable",
+		"seasons": ["Summer"],
+		"growTime": 9
+	},
+	{
+		"crop": "Rhubarb",
+		"cropSprite": [12, 29],
+		"seed": "Rhubarb Seeds",
+		"seedSprite": [2, 20],
+		"kind": "Fruit",
+		"seasons": ["Spring"],
+		"growTime": 13
+	},
+	{
+		"crop": "Unmilled Rice",
+		"cropSprite": [17, 28],
+		"seed": "Rice Shoot",
+		"seedSprite": [15, 28],
+		"kind": "Vegetable",
+		"seasons": ["Spring"],
+		"growTime": 8
+	},
+	{
+		"crop": "Summer Spangle",
+		"cropSprite": [7, 15],
+		"seed": "Spangle Seeds",
+		"seedSprite": [1, 21],
+		"kind": "Flower",
+		"seasons": ["Summer"],
+		"growTime": 8
+	},
+	{
+		"crop": "Daffodil",
+		"cropSprite": [2, 39],
+		"seed": "Spring Seeds",
+		"seedSprite": [9, 19],
+		"kind": "Forage",
+		"seasons": ["Spring"],
+		"growTime": 7
+	},
+	{
+		"crop": "Dandelion",
+		"cropSprite": [6, 39],
+		"seed": "Spring Seeds",
+		"seedSprite": [9, 19],
+		"kind": "Forage",
+		"seasons": ["Spring"],
+		"growTime": 7
+	},
+	{
+		"crop": "Leek",
+		"cropSprite": [4, 39],
+		"seed": "Spring Seeds",
+		"seedSprite": [9, 19],
+		"kind": "Forage",
+		"seasons": ["Spring"],
+		"growTime": 7
+	},
+	{
+		"crop": "Wild Horseradish",
+		"cropSprite": [8, 39],
+		"seed": "Spring Seeds",
+		"seedSprite": [9, 19],
+		"kind": "Forage",
+		"seasons": ["Spring"],
+		"growTime": 7
+	},
+	{
+		"crop": "Starfruit",
+		"cropSprite": [20, 28],
+		"seed": "Starfruit Seeds",
+		"seedSprite": [18, 19],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 13
+	},
+	{
+		"crop": "Strawberry",
+		"cropSprite": [8, 23],
+		"seed": "Strawberry Seeds",
+		"seedSprite": [23, 8],
+		"kind": "Fruit",
+		"seasons": ["Spring"],
+		"growTime": 8,
+		"regrowTime": 4
+	},
+	{
+		"crop": "Spice Berry",
+		"cropSprite": [12, 23],
+		"seed": "Summer Seeds",
+		"seedSprite": [8, 19],
+		"kind": "Fruit",
+		"seasons": ["Summer"],
+		"growTime": 7
+	},
+	{
+		"crop": "Sweet Pea",
+		"cropSprite": [6, 23],
+		"seed": "Summer Seeds",
+		"seedSprite": [8, 19],
+		"kind": "Forage",
+		"seasons": ["Summer"],
+		"growTime": 7
+	},
+	{
+		"crop": "Sunflower",
+		"cropSprite": [11, 22],
+		"seed": "Sunflower Seeds",
+		"seedSprite": [1, 22],
+		"kind": "Flower",
+		"seasons": ["Summer"],
+		"growTime": 8
+	},
+	{
+		"crop": "Taro Root",
+		"cropSprite": [10, 5],
+		"seed": "Taro Tuber",
+		"seedSprite": [9, 5],
+		"kind": "Vegetable",
+		"seasons": ["Summer"],
+		"growTime": 10
+	},
+	{
+		"crop": "Tea Leaves",
+		"cropSprite": [1, 6],
+		"seed": "Tea Sapling",
+		"seedSprite": [13, 29],
+		"kind": "Flower",
+		"seasons": ["Spring", "Summer", "Fall"],
+		"growTime": 20,
+		"regrowTime": 1
+	},
+	{
+		"crop": "Tomato",
+		"cropSprite": [8, 29],
+		"seed": "Tomato Seeds",
+		"seedSprite": [24, 19],
+		"kind": "Vegetable",
+		"seasons": ["Summer"],
+		"growTime": 11,
+		"regrowTime": 4
+	},
+	{
+		"crop": "Tulip",
+		"cropSprite": [9, 15],
+		"seed": "Tulip Bulb",
+		"seedSprite": [5, 22],
+		"kind": "Flower",
+		"seasons": ["Spring"],
+		"growTime": 6
+	},
+	{
+		"crop": "Wheat",
+		"cropSprite": [2, 29],
+		"seed": "Wheat Seeds",
+		"seedSprite": [21, 19],
+		"kind": "Vegetable",
+		"seasons": ["Summer"],
+		"growTime": 4
+	},
+	{
+		"crop": "Crocus",
+		"cropSprite": [14, 22],
+		"seed": "Winter Seeds",
+		"seedSprite": [6, 19],
+		"kind": "Forage",
+		"seasons": ["Winter"],
+		"growTime": 7
+	},
+	{
+		"crop": "Crystal Fruit",
+		"cropSprite": [18, 22],
+		"seed": "Winter Seeds",
+		"seedSprite": [6, 19],
+		"kind": "Fruit",
+		"seasons": ["Winter"],
+		"growTime": 7
+	},
+	{
+		"crop": "Snow Yam",
+		"cropSprite": [16, 22],
+		"seed": "Winter Seeds",
+		"seedSprite": [6, 19],
+		"kind": "Forage",
+		"seasons": ["Winter"],
+		"growTime": 7
+	},
+	{
+		"crop": "Winter Root",
+		"cropSprite": [20, 22],
+		"seed": "Winter Seeds",
+		"seedSprite": [6, 19],
+		"kind": "Forage",
+		"seasons": ["Winter"],
+		"growTime": 7
+	},
+	{
+		"crop": "Yam",
+		"cropSprite": [8, 28],
+		"seed": "Yam Seeds",
+		"seedSprite": [12, 19],
+		"kind": "Vegetable",
+		"seasons": ["Fall"],
+		"growTime": 10
+	}
+]

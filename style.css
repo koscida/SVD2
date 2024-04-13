@@ -1,0 +1,41 @@
+p {
+	margin: 0;
+	padding: 0;
+}
+.calendar {
+}
+
+.calendar .day {
+	padding: 0;
+	border: 1px solid #444;
+}
+
+.sprite {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background: url(resources/img/stardew_valley_sprites.png);
+}
+
+.calendar .day .label {
+	text-align: left;
+	font-size: 0.8em;
+	background: #e4e4e4;
+}
+.calendar .day .sub_label {
+	text-align: left;
+	font-size: 0.7em;
+}
+.calendar .crop_label {
+	display: none;
+}
+
+.calendar .day .date {
+	background: #ddd;
+}
+.calendar .day .planting {
+}
+.calendar .day .growing {
+}
+.calendar .day .harvesting {
+}

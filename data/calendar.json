@@ -1,0 +1,316 @@
+{
+	"Fall10": [
+		{
+			"season": "Fall",
+			"day": 10,
+			"date": "Fall10",
+			"event": "Blackberry Season"
+		}
+	],
+	"Fall11": [
+		{
+			"season": "Fall",
+			"day": 11,
+			"date": "Fall11",
+			"event": "Blackberry Season"
+		},
+		{ "season": "Fall", "day": 11, "date": "Fall11", "event": "Jodi" }
+	],
+	"Fall13": [
+		{ "season": "Fall", "day": 13, "date": "Fall13", "event": "Abigail" }
+	],
+	"Fall15": [
+		{ "season": "Fall", "day": 15, "date": "Fall15", "event": "Sandy" }
+	],
+	"Fall16": [
+		{
+			"season": "Fall",
+			"day": 16,
+			"date": "Fall16",
+			"event": "Stardew Valley Fair"
+		}
+	],
+	"Fall18": [
+		{ "season": "Fall", "day": 18, "date": "Fall18", "event": "Marnie" }
+	],
+	"Fall2": [
+		{ "season": "Fall", "day": 2, "date": "Fall2", "event": "Penny" }
+	],
+	"Fall21": [
+		{ "season": "Fall", "day": 21, "date": "Fall21", "event": "Robin" }
+	],
+	"Fall24": [
+		{ "season": "Fall", "day": 24, "date": "Fall24", "event": "George" }
+	],
+	"Fall27": [
+		{
+			"season": "Fall",
+			"day": 27,
+			"date": "Fall27",
+			"event": "Spirit's Eve"
+		}
+	],
+	"Fall5": [
+		{ "season": "Fall", "day": 5, "date": "Fall5", "event": "Elliott" }
+	],
+	"Fall8": [
+		{
+			"season": "Fall",
+			"day": 8,
+			"date": "Fall8",
+			"event": "Blackberry Season"
+		}
+	],
+	"Fall9": [
+		{
+			"season": "Fall",
+			"day": 9,
+			"date": "Fall9",
+			"event": "Blackberry Season"
+		}
+	],
+	"Spring10": [
+		{
+			"season": "Spring",
+			"day": 10,
+			"date": "Spring10",
+			"event": "Vincent"
+		}
+	],
+	"Spring13": [
+		{
+			"season": "Spring",
+			"day": 13,
+			"date": "Spring13",
+			"event": "Egg Festival"
+		}
+	],
+	"Spring14": [
+		{ "season": "Spring", "day": 14, "date": "Spring14", "event": "Haley" }
+	],
+	"Spring15": [
+		{
+			"season": "Spring",
+			"day": 15,
+			"date": "Spring15",
+			"event": "Salmonberry Season"
+		},
+		{
+			"season": "Spring",
+			"day": 15,
+			"date": "Spring15",
+			"event": "Desert Festival"
+		}
+	],
+	"Spring16": [
+		{
+			"season": "Spring",
+			"day": 16,
+			"date": "Spring16",
+			"event": "Salmonberry Season"
+		},
+		{
+			"season": "Spring",
+			"day": 16,
+			"date": "Spring16",
+			"event": "Desert Festival"
+		}
+	],
+	"Spring17": [
+		{
+			"season": "Spring",
+			"day": 17,
+			"date": "Spring17",
+			"event": "Salmonberry Season"
+		},
+		{
+			"season": "Spring",
+			"day": 17,
+			"date": "Spring17",
+			"event": "Desert Festival"
+		}
+	],
+	"Spring18": [
+		{
+			"season": "Spring",
+			"day": 18,
+			"date": "Spring18",
+			"event": "Salmonberry Season"
+		},
+		{ "season": "Spring", "day": 18, "date": "Spring18", "event": "Pam" }
+	],
+	"Spring20": [
+		{ "season": "Spring", "day": 20, "date": "Spring20", "event": "Shane" }
+	],
+	"Spring24": [
+		{
+			"season": "Spring",
+			"day": 24,
+			"date": "Spring24",
+			"event": "Flower Dance"
+		}
+	],
+	"Spring26": [
+		{ "season": "Spring", "day": 26, "date": "Spring26", "event": "Pierre" }
+	],
+	"Spring27": [
+		{ "season": "Spring", "day": 27, "date": "Spring27", "event": "Emily" }
+	],
+	"Spring4": [
+		{ "season": "Spring", "day": 4, "date": "Spring4", "event": "Kent" }
+	],
+	"Spring7": [
+		{ "season": "Spring", "day": 7, "date": "Spring7", "event": "Lewis" }
+	],
+	"Summer10": [
+		{ "season": "Summer", "day": 10, "date": "Summer10", "event": "Maru" }
+	],
+	"Summer11": [
+		{ "season": "Summer", "day": 11, "date": "Summer11", "event": "Luau" }
+	],
+	"Summer13": [
+		{ "season": "Summer", "day": 13, "date": "Summer13", "event": "Alex" }
+	],
+	"Summer17": [
+		{ "season": "Summer", "day": 17, "date": "Summer17", "event": "Sam" }
+	],
+	"Summer19": [
+		{
+			"season": "Summer",
+			"day": 19,
+			"date": "Summer19",
+			"event": "Demetrius"
+		}
+	],
+	"Summer20": [
+		{
+			"season": "Summer",
+			"day": 20,
+			"date": "Summer20",
+			"event": "Trout Derby"
+		}
+	],
+	"Summer21": [
+		{
+			"season": "Summer",
+			"day": 21,
+			"date": "Summer21",
+			"event": "Trout Derby"
+		}
+	],
+	"Summer22": [
+		{ "season": "Summer", "day": 22, "date": "Summer22", "event": "Dwarf" }
+	],
+	"Summer24": [
+		{ "season": "Summer", "day": 24, "date": "Summer24", "event": "Willy" }
+	],
+	"Summer26": [
+		{ "season": "Summer", "day": 26, "date": "Summer26", "event": "Leo" }
+	],
+	"Summer28": [
+		{
+			"season": "Summer",
+			"day": 28,
+			"date": "Summer28",
+			"event": "Extra forageables at The Beach"
+		},
+		{
+			"season": "Summer",
+			"day": 28,
+			"date": "Summer28",
+			"event": "Dance of the Moonlight Jellies"
+		}
+	],
+	"Summer4": [
+		{ "season": "Summer", "day": 4, "date": "Summer4", "event": "Jas" }
+	],
+	"Summer8": [
+		{ "season": "Summer", "day": 8, "date": "Summer8", "event": "Gus" }
+	],
+	"Winter1": [
+		{ "season": "Winter", "day": 1, "date": "Winter1", "event": "Krobus" }
+	],
+	"Winter10": [
+		{
+			"season": "Winter",
+			"day": 10,
+			"date": "Winter10",
+			"event": "Sebastian"
+		}
+	],
+	"Winter12": [
+		{
+			"season": "Winter",
+			"day": 12,
+			"date": "Winter12",
+			"event": "SquidFest"
+		}
+	],
+	"Winter13": [
+		{
+			"season": "Winter",
+			"day": 13,
+			"date": "Winter13",
+			"event": "SquidFest"
+		}
+	],
+	"Winter14": [
+		{ "season": "Winter", "day": 14, "date": "Winter14", "event": "Harvey" }
+	],
+	"Winter15": [
+		{
+			"season": "Winter",
+			"day": 15,
+			"date": "Winter15",
+			"event": "Night Market"
+		}
+	],
+	"Winter16": [
+		{
+			"season": "Winter",
+			"day": 16,
+			"date": "Winter16",
+			"event": "Night Market"
+		}
+	],
+	"Winter17": [
+		{
+			"season": "Winter",
+			"day": 17,
+			"date": "Winter17",
+			"event": "Night Market"
+		},
+		{ "season": "Winter", "day": 17, "date": "Winter17", "event": "Wizard" }
+	],
+	"Winter20": [
+		{ "season": "Winter", "day": 20, "date": "Winter20", "event": "Evelyn" }
+	],
+	"Winter23": [
+		{ "season": "Winter", "day": 23, "date": "Winter23", "event": "Leah" }
+	],
+	"Winter25": [
+		{
+			"season": "Winter",
+			"day": 25,
+			"date": "Winter25",
+			"event": "Feast of the Winter Star"
+		}
+	],
+	"Winter26": [
+		{ "season": "Winter", "day": 26, "date": "Winter26", "event": "Clint" }
+	],
+	"Winter3": [
+		{ "season": "Winter", "day": 3, "date": "Winter3", "event": "Linus" }
+	],
+	"Winter7": [
+		{ "season": "Winter", "day": 7, "date": "Winter7", "event": "Caroline" }
+	],
+	"Winter8": [
+		{
+			"season": "Winter",
+			"day": 8,
+			"date": "Winter8",
+			"event": "Festival of Ice"
+		}
+	]
+}
